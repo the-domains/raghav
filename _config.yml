@@ -1,0 +1,28 @@
+name: Raghav
+favicon: null
+layout_spectrum: 0.49811382428742945
+typography_spectrum: 0.19355441280640662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7406446973327547
+  lightness: 0.6061179577372968
+  saturation: 0.6475716822315007
+  rhythmicContrast: 0.17447946593165398
+purpose: []
