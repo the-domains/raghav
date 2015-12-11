@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.thehindubusinessline.com'
-  name: The Hindu Business Line
-  favicon: 'http://www.thehindubusinessline.com/favicon.ico'
-  domain: www.thehindubusinessline.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.thehindubusinessline.com/todays-paper/tp-opinion/missing-links-in-financial-inclusion/article1029282.ece'
+inLanguage: en
+starred: true
 keywords:
   - transaction
   - payment
@@ -17,18 +16,21 @@ keywords:
   - credit
   - financial
   - collateral
-description: 'N. RAGHAVRAMAN TANEJA FINANCE MATTERS The absence of key back-end infrastructure can act as an impediment to financial inclusion. Infrastructure facilities such as clearing houses, depositories, stock exchanges, and commodity exchanges are the backbone of any financial system.'
-inLanguage: en
+description: 'The absence of key back-end infrastructure can act as an impediment to financial inclusion. Infrastructure facilities such as clearing houses, depositories, stock exchanges, and commodity exchanges are the backbone of any financial system.'
+datePublished: '2015-12-11T07:10:43.139Z'
+dateModified: '2015-12-11T07:09:55.000Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.thehindubusinessline.com/todays-paper/tp-opinion/missing-links-in-financial-inclusion/article1029282.ece'
 title: Missing links in financial inclusion
-datePublished: '2015-12-11T06:49:37.995Z'
-dateModified: '2015-12-11T06:45:16.317Z'
 sourcePath: _posts/2015-12-11-missing-links-in-financial-inclusion.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The Hindu Business Line
+  domain: www.thehindubusinessline.com
+  url: 'http://www.thehindubusinessline.com'
+  favicon: 'http://www.thehindubusinessline.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
