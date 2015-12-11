@@ -17,8 +17,8 @@ keywords:
   - financial
   - collateral
 description: 'The absence of key back-end infrastructure can act as an impediment to financial inclusion. Infrastructure facilities such as clearing houses, depositories, stock exchanges, and commodity exchanges are the backbone of any financial system.'
-datePublished: '2015-12-11T07:10:43.139Z'
-dateModified: '2015-12-11T07:09:55.000Z'
+datePublished: '2015-12-11T07:22:04.270Z'
+dateModified: '2015-12-11T07:19:34.861Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Missing links in financial inclusion</h1><p>N&amp;period; RAGHAVRAMAN TANEJA FINANCE MATTERS The absence of key back-end infrastructure can act as an impediment to financial inclusion&amp;period; Infrastructure facilities such as clearing houses&amp;comma; depositories&amp;comma; stock exchanges&amp;comma; and commodity exchanges are the backbone of any financial system&amp;period;</p><img src="http://www.thehindubusinessline.com/multimedia/dynamic/00335/2010122251090801_335408g.jpg" /></article>
+<article style=""><h1>Missing links in financial inclusion</h1><p>The absence of key back-end infrastructure can act as an impediment to financial inclusion. Infrastructure facilities such as clearing houses, depositories, stock exchanges, and commodity exchanges are the backbone of any financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02d1eb6a4af21a79cd873ac1def8d9144fa87f9b.jpg" /></article>
