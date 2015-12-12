@@ -3,7 +3,7 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - transaction
   - payment
@@ -16,8 +16,8 @@ keywords:
   - financial
   - collateral
 description: 'The absence of key back-end infrastructure can act as an impediment to financial inclusion. Infrastructure facilities such as clearing houses, depositories, stock exchanges, and commodity exchanges are the backbone of any financial system.'
-datePublished: '2015-12-12T05:30:45.566Z'
-dateModified: '2015-12-12T05:30:38.749Z'
+datePublished: '2015-12-12T05:33:25.911Z'
+dateModified: '2015-12-12T05:33:16.758Z'
 author: []
 related: []
 app_links: []
